@@ -1,0 +1,7 @@
+Hello this is a file created on local machine.
+
+
+this file created on local machine is copid to docker image while building the image with docker build command.
+
+
+if you are reading this , then he build was sucessfull
